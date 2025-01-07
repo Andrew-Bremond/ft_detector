@@ -1,0 +1,12 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# IDE settings
+.vscode/
+*.swp
